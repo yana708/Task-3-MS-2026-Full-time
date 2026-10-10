@@ -8,3 +8,6 @@ html{
     font-size: 2rem;
     font-weight: bold;
 }
+.beauty{
+    text-shadow: 2px 2px 2px pink, 1px 1px 1px black;
+}
