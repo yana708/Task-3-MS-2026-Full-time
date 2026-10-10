@@ -1,0 +1,10 @@
+html{
+    background-color: aqua;
+}
+.blue{
+    color: darkblue;
+}
+.big{
+    font-size: 2rem;
+    font-weight: bold;
+}
